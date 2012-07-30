@@ -1,0 +1,3 @@
+= Vintage Bot
+
+RSBot is way too mainstream, so Vintage Bot RSBot compatible with hipsters.
